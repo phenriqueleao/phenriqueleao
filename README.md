@@ -8,8 +8,11 @@ Atualmente acadêmico do Curso de Sistemas para Internet na Universidade Federal
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedroh-leao/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phenriqueleao)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phenriqueleao&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phenriqueleao&layout=compact&langs_count=8&theme=darcula"/>
+</div>
 <!--
 **phenriqueleao/phenriqueleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
