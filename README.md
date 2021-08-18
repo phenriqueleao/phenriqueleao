@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm [Pedro Leão](https://pedropleao.netlify.app/)
+Atualmente acadêmico do Curso de Sistemas para Internet na Universidade Federal de Santa Maria.
+
+
+📫 How to reach me:
+
+---
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedroh-leao/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phenriqueleao)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **phenriqueleao/phenriqueleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
