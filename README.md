@@ -9,7 +9,7 @@ Atualmente acadêmico do Curso de Sistemas para Internet na Universidade Federal
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedroh-leao/)
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/phenriqueleao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phenriqueleao&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phenriqueleao&layout=compact&langs_count=8&theme=darcula"/>
 </div>
