@@ -1,18 +1,21 @@
-### Hi there 👋, I'm [Pedro Leão](https://pedropleao.netlify.app/)
-Atualmente acadêmico do Curso de Sistemas para Internet na Universidade Federal de Santa Maria.
+### Hi there 👋, I'm [Pedro Leão](https://pedroleao.dev/)
+I am an Substitute Professor at the Instituto Federal Farrupilha (IFFar) - Campus São Borja, Rio Grande do Sul, Brazil.
 
+<p align="center">
+	<a href="https://twitter.com/phenriqueleao">
+    <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/pedroh-leao/">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 📫 How to reach me:
 
----
+Follow me on Twitter: https://twitter.com/phenriqueleao
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedroh-leao/)
+My webpage is at [pedroleao.dev](https://pedroleao.dev/).
 
-<div>
-  <a href="https://github.com/phenriqueleao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phenriqueleao&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phenriqueleao&layout=compact&langs_count=8&theme=darcula"/>
-</div>
 <!--
 **phenriqueleao/phenriqueleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,3 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=phenriqueleao&label=PROFILE+VIEWS)
