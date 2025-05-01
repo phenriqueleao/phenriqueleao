@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm [Pedro Leão](https://pedroleao.dev/)
-I am an Substitute Professor at the Instituto Federal Farrupilha (IFFar) - Campus São Borja, Rio Grande do Sul, Brazil.
+I am an Professor at the Instituto Federal do Paraná (IFPR) - Campus Pitanga, Paraná, Brazil.
 
 <p align="center">
 	<a href="https://twitter.com/phenriqueleao">
@@ -11,6 +11,8 @@ I am an Substitute Professor at the Instituto Federal Farrupilha (IFFar) - Campu
 </p>
 
 📫 How to reach me:
+
+Follow me on Linkedin: https://www.linkedin.com/in/pedropleao/
 
 Follow me on Twitter: https://twitter.com/phenriqueleao
 
